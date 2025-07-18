@@ -1,0 +1,119 @@
+body {
+     margin: 0;
+      padding: 0;
+      background-color: #0d1117;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      color: white;
+    
+    
+}
+.container {
+      background-color: #161b22;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+      width: 300px;
+      text-align: center;
+    }
+    
+#hd-1 {
+    color: #FFFFFF ;
+    width: 354;
+height: 80;
+opacity: 1;
+top: 115px;
+left: 52px;
+margin-top: 50px;
+margin-bottom: 0px;
+font-family: Karla;
+font-style:Bold;
+font-size: 30px;
+line-height: 40px;
+text-align: left;
+
+    
+}
+#hd-2{
+    color: #FFFFFF ;
+    width: 354;
+height: 80;
+opacity: 1;
+top: 115px;
+left: 52px;
+margin-top: 0px;
+font-family: Karla;
+font-weight: 800;
+font-style: Bold;
+font-size: 30px;
+line-height: 40px;
+text-align: left;
+}
+
+
+#span-word{
+    color: #10B981;
+
+}
+
+#para {
+    color: #D5D4D8;
+    width: 372;
+height: 28;
+opacity: 1;
+top: 205px;
+left: 52px;
+font-family: Inter;
+font-weight: 200;
+font-size: 19px;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: left;
+
+}
+#password-btn { 
+
+    background-color: #10B981;
+    border: none;
+    color: #FFFFFF ;
+    border-radius: 5px;
+    margin-top: 40px ;
+    width: 191;
+height: 42;
+opacity: 1;
+top: 284px;
+left: 52px;
+padding: 9px 17px 9px 17px ;
+ font-family: Inter;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0%;
+margin-left: -150px;
+
+}
+
+#line {
+   margin: 20px 0;
+   border: 0.5px solid #2F3E53
+
+}
+
+.output {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+    }
+.password-box{
+    background-color: #21262d;
+      flex: 1;
+      padding: 10px;
+      border-radius: 6px;
+      color: #ccc;
+      text-align: center;
+      font-size: 0.9em;
+      word-break: break-all;
+}
